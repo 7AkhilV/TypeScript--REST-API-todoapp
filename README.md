@@ -36,5 +36,5 @@ The API will be accessible at http://localhost:3000.
 
 - `GET /todos`: Get a list of all ToDo items.
 - `POST /todos`: Add a new ToDo item.
-- `PUT /todos/`:id: Update an existing ToDo item.
-- `DELETE /todos/`:id: Delete a ToDo item.
+- `PUT /todos/:id`: Update an existing ToDo item.
+- `DELETE /todos/:id`: Delete a ToDo item.
